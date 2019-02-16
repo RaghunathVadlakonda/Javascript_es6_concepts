@@ -1,0 +1,19 @@
+{
+  "name": "javascript_es6_concepts",
+  "version": "1.0.0",
+  "description": "A simple javascript ES6 concepts",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaghunathVadlakonda/Javascript_es6_concepts.git"
+  },
+  "author": "Raghunath Vadlakonda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaghunathVadlakonda/Javascript_es6_concepts/issues"
+  },
+  "homepage": "https://github.com/RaghunathVadlakonda/Javascript_es6_concepts#readme"
+}
